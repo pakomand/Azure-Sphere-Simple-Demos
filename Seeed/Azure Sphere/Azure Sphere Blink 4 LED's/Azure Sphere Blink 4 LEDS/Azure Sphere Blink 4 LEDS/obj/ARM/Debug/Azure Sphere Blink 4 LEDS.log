@@ -1,0 +1,28 @@
+﻿  Azure Sphere Utility version 19.5.4.53731
+  Copyright (C) Microsoft Corporation. All rights reserved.
+   
+  Start time (UTC): Thursday, 11 July 2019 14:12:18 
+  verbose: Creating image package. 
+  verbose: Azure Sphere application image package written. 
+  verbose: Appending metadata. 
+  verbose: Wrote metadata:
+    Section: Identity
+      Image Type:           Application
+      Component ID:         f4da2abf-52e0-4546-bbea-91c8678e9926
+      Image ID:             557018ee-e9df-4886-9d69-ac02a833c986
+    Section: Signature
+      Signing Type:         ECDsa256
+      Cert:                 a8d5cc6958f48710140d7a26160fc1cfc31f5df0
+    Section: Debug
+      Image Name:           Azure_Sphere_Blink_4_LEDS
+      Built On (UTC):       7/11/2019 2:12:19 PM
+      Built On (Local):     7/11/2019 7:12:19 AM
+    Section: Temporary Image
+      Remove image at boot: False
+      Under development:    True
+    Section: ABI Depends
+      Depends on:           ApplicationRuntime, version 2
+   
+  verbose: Packaging completed successfully. 
+  verbose: Output file is at: C:\PKVSProjects\Seeed\Azure Sphere\Azure Sphere Blink 4 LED's\Azure Sphere Blink 4 LEDS\Azure Sphere Blink 4 LEDS\bin\ARM\Debug\Azure Sphere Blink 4 LEDS.imagepackage 
+  Command completed successfully in 00:00:00.9323852. 

@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "Azure_Sphere_Blink_4_LEDS",
+  "ComponentId" : "f4da2abf-52e0-4546-bbea-91c8678e9926",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 9, 15, 20, 22 ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}

@@ -1,0 +1,1 @@
+{"SchemaVersion":1,"Name":"Azure_Sphere_Human_Touch_Sensor","ComponentId":"4c07c886-86a2-49b9-adcc-5dc517655557","EntryPoint":"/bin/app","CmdArgs":[],"Capabilities":{"AllowedConnections":[],"Gpio":[4,5,7],"Uart":[],"WifiConfig":false},"ApplicationType":"Default","TargetApplicationRuntimeVersion":2}
